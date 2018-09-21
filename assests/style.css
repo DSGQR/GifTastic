@@ -1,0 +1,29 @@
+body {
+    background: url("./Images/4k-wallpaper-wall-gray-textures.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    color: black;
+}
+
+.jumbotron {
+    background-color: inherit;
+}
+
+.jumbotron, h1 {
+    text-align: center;
+}
+
+.container {
+    border-radius: 5px;
+    background-color: #00BFFF;
+    padding: 20px;
+}
+
+h5, .btn {
+    color: black;
+}
+
+.btn-dark {
+    color: white;
+    /* margin: 10px; */
+}
